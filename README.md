@@ -5,7 +5,8 @@ I enjoy highly creative coding projects and work in the industry as an IT Busine
 
 ## Current Projects
 
-I have a several interests pulling me at any given time. My current projects include:
+I have a several interests pulling me at any given time. 
+My current projects include:
 
 - Node.js REPL Game
 - Slack Extension Apps
