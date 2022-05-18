@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am feral programmer teaching myself web technologies little by little everyday.
+I am a feral programmer teaching myself web technologies little by little everyday.
 I enjoy highly creative coding projects and work in the industry as IT Business Analyst.
 
 ## Current Projects
