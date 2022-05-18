@@ -14,6 +14,10 @@ My current projects include:
 - Slack Extension Apps
 - My Web Portfolio
 
+## Past Projects
+
+I have also worked on some React web apps and the Microsoft Power Platform.
+
 <!--
 **jmdimmick/jmdimmick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
