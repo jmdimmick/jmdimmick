@@ -1,17 +1,24 @@
 ### Hi there 👋
 
-I am a feral programmer teaching myself web technologies little by little every day.
+I am a feral programmer learning new web technologies every day.
 
-I enjoy highly creative coding projects and work in the industry as an IT Business Analyst.
+I enjoy highly creative coding projects in my free time and work in the industry as an IT Automation Developer.
+
+## Recent Work
+
+I have worked recently as a backend programmer developing database procedures, queries, and some shell scripting.
+
+More recently, I have been automating business processes using several popular LCAPs and writing data transformations in php. 
+
+Over the last 10 years or so, I have filled several roles in IT from training and technical writing to business analysis and programming.
 
 ## Current Projects
 
 I have several interests pulling me at any given time. 
 
-My current projects include:
+Some projects include:
 
 - Node.js REPL Game
-- Slack Extension Apps
 - My Web Portfolio
 
 ## Past Projects
