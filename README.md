@@ -8,7 +8,7 @@ I enjoy highly creative coding projects in my free time and work in the industry
 
 I have worked recently as a backend programmer developing database procedures, queries, and some shell scripting.
 
-More recently, I have been automating business processes using several popular LCAPs and writing data transformations in php. 
+More recently, I have been automating business processes using several popular LCAPs and writing data transformations in php, node.js, and dataweave. 
 
 Over the last 10 years or so, I have filled several roles in IT from training and technical writing to business analysis and programming.
 
